@@ -9,5 +9,8 @@
         <module name="firstweb" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="firstweb" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
